@@ -6,5 +6,6 @@ int main(){
 	for(int k = 0; k < 5; k++)
 		cout << "chip add" << endl;
 	don't want to change --hua
+	still want to modify ---chip	
 	return;
 }
