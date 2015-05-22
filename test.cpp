@@ -5,5 +5,6 @@ int main(){
 		cout << "haha" << endl;
 	for(int k = 0; k < 10; k++)
 		cout << "chip" << endl;
+	still want to modify ---chip	
 	return;
 }
